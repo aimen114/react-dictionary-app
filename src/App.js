@@ -1,11 +1,12 @@
+import Dictionary from "./Dictionary";
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <main>
+        <Dictionary />
+      </main>
     </div>
   );
 }
-
-export default App;
