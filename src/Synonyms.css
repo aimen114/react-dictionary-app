@@ -1,7 +1,6 @@
-li {
-  margin-top: 3%;
+.synonym {
+  display: inline;
   list-style: none;
-  display: inline-block;
-  padding-right: 10px;
-  color: #94d1ff;
+  margin-right: 15px;
+  color: #79aad0;
 }
