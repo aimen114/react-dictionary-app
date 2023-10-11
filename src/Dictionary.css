@@ -1,0 +1,27 @@
+form {
+  display: flex;
+}
+section {
+  border: 5px dashed #94d1ff;
+  border-radius: 20px;
+  padding: 5%;
+}
+.section-wrap {
+  background-color: #f3dfff;
+  border-radius: 20px;
+  padding: 4%;
+  margin-bottom: 3%;
+}
+.btn {
+  border: 1px solid #94d1ff;
+  color: #94d1ff;
+}
+.btn:hover {
+  border: 1px solid #94d1ff;
+  color: white;
+  background-color: #94d1ff;
+}
+.form-control {
+  border: 1px solid #94d1ff;
+  color: #94d1ff;
+}
