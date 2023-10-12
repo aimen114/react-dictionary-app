@@ -8,7 +8,7 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <footer>
+      <footer className="mb-3 text-center">
         This project is created by{" "}
         <a
           href="https://unrivaled-gingersnap-27115c.netlify.app/"

@@ -1,0 +1,5 @@
+img {
+  border: 5px dashed #94d1ff;
+  border-radius: 6px;
+  box-shadow: 3px 2px 7px 1px rgba(0, 0, 0, 0.4);
+}
